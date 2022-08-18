@@ -1,4 +1,4 @@
-### Hi there 👋
+Computers are not the *thing*. They are the thing that gets us to the *thing*. - Halt And Catch Fire
 
 <!--
 **g8a9/g8a9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
